@@ -1,0 +1,56 @@
+source,target
+Channel,tas
+Channel,sepatu
+Channel,lipstik
+Channel,parfum
+Channel,kaca mata
+tas,channel
+tas,gucci
+tas,prada
+tas,lv
+tas,dior
+gucci,tas
+gucci,sepatu
+gucci,jam tangan
+gucci,perhiasan
+gucci,parfum
+sepatu,channel
+sepatu,gucci
+sepatu,prada
+sepatu,lv
+sepatu,dior
+prada,tas
+prada,sepatu
+prada,ikat pinggang
+prada,baju
+prada,gaun
+baju,channel
+baju,gucci
+baju,prada
+baju,lv
+baju,dior
+dior,perhiasan
+dior,jam tangan
+dior,parfum
+dior,kosmetik
+dior,tas
+parfum,gucci
+parfum,prada
+parfum,lv
+parfum,channel
+parfum,dior
+lv,tas
+lv,baju
+lv,make up
+lv,perhiasan
+lv,sepatu
+jam tangan,lv
+jam tangan,dior
+jam tangan,channel
+jam tangan,prada
+jam tangan,gucci
+lipstik,gucci
+lipstik,prada
+lipstik,lv
+lipstik,dior
+lipstik,channel
